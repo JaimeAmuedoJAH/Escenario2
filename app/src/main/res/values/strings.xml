@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Escenario2</string>
+    <string name="cotenidoDeportes1">Tenis de mesa</string>
+    <string name="cotenidoDeportes2">Futbol</string>
+    <string name="cotenidoDeportes3">Padel</string>
+    <string name="cotenidoCiudades1">Sevilla</string>
+    <string name="cotenidoCiudades2">Salamanca</string>
+    <string name="cotenidoCiudades3">Toledo</string>
+    <string name="contenidoNombres1">Jaime</string>
+    <string name="contenidoNombres2">Susana</string>
+    <string name="contenidoNombres3">Judith</string>
+    <string-array name="spLista">
+        <item>Deportes</item>
+        <item>Ciudades</item>
+        <item>Nombres</item>
+    </string-array>
+</resources>
